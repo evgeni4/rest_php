@@ -1,0 +1,16 @@
+http://localhost/rest_api/api/product/create.php
+http://localhost/rest_api/api/product/update.php
+ {
+       "title": "demo",
+        "description": "test",
+        "price": 10.00,
+        "quantity": 1,
+        "id": 2,
+ }
+
+http://localhost/rest_api/api/product/delete.php
+ {
+        "id": 6,
+ }
+http://localhost/rest_api/api/product/read.php
+http://localhost/rest_api/api/product/single.php?id=?
